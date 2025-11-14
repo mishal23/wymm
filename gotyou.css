@@ -1,0 +1,11 @@
+#no-button {
+  color: white;
+  background-color: #c82333;
+  border-color: #bd2130;
+  position: absolute;
+  font-weight: 400;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+}
