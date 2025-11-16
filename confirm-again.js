@@ -19,7 +19,7 @@ function runAway() {
 }
 setTimeout(function () {
   alert("YOUR ONLY CHOICE IS TO SAY YES!");
-  //   var audio = new Audio("music/song.mp3");
-  //   audio.loop = true;
-  //   audio.play();
-}, 8000);
+  var audio = new Audio("music/channa-mereya.mp3");
+  audio.loop = true;
+  audio.play();
+}, 2000);
